@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Srikanta Murthy N G</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/17auMlBH75t_uuDDh7VIlp8ndF1GtXxni/view?usp=drive_link)
+- 🌱 I’m currently learning **AI, RAG, LLMs, Agentic AI, and GenAI**
+  
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1uh3gmoX8PBM7CJSkTiD0Jsr3-Cv9RkKR/view?usp=drive_link)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Srikantamurthy17/)
 
-- 📫 Reach out to me at **srikantamurthy17@gmail.com**,  [LinkedIn](https://www.linkedin.com/in/srikanta-murthy-n-g-40403a260)
+- 📫 Reach out to me at **srikantamurthy17@gmail.com**,
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/srikanta-murthy-n-g-40403a260)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -14,8 +18,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
