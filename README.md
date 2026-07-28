@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **AI, RAG, LLMs, Agentic AI, and GenAI**
   
+- 👨‍💻 Former Software Engineering Intern at **Black Duck**
+
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1uh3gmoX8PBM7CJSkTiD0Jsr3-Cv9RkKR/view?usp=drive_link)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Srikantamurthy17/)
